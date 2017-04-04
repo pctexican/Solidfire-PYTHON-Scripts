@@ -1,2 +1,0 @@
-# PYTHON-Scripts
-Python Scripts
