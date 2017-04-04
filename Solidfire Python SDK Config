@@ -1,0 +1,22 @@
+https://github.com/solidfire/solidfire-sdk-python
+
+https://pypi.python.org/pypi/solidfire-sdk-python/1.1.0.92
+
+https://www.getpostman.com/
+
+Ubuntu Pre-Installation Steps:
+
+sudo apt-get install python-pip                                  # or python3-pip
+sudo apt-get install libffi-dev libssl-dev libcurl4-openssl-dev
+sudo apt-get install python-dev                                  # or python3.3-dev python3.4-dev python3.5-dev
+pip install pyopenssl ndg-httpsclient pyasn1                    # use the correct version of pip (i.e. pip3.3)
+
+
+pip install -e git+https://github.com/solidfire/solidfire-sdk-python.git@develop#egg=solidfire-sdk-python
+
+apt-get install python-pip
+apt-get install libffi-dev libssl-dev libcurl4-openssl-dev
+apt-get install python-dev
+pip install pyopenssl ndg-httpsclient pyasn1
+pip install solidfire-sdk-python or
+    pip install -e git+https://github.com/solidfire/solidfire-sdk-python.git@develop#egg=solidfire-sdk-python
