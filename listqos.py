@@ -1,4 +1,4 @@
-(venv)piops@cldadm-wc-a01:~/SF/venv$ cat listqos.py
+(venv)piops@adminnode:~/SF/venv$ cat listqos.py
 #!/usr/bin/env python
 # Solidfire Storage python script to list qos values for all volumes
 # Paul Clifton
